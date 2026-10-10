@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-bouncelens.bounceLens",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content", "Communication", "Data & Storage"],
+	"alias": ["email", "verify", "validate", "validation", "verification", "disposable", "mx", "typo", "bounce"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/bouncelens/n8n-nodes-bouncelens#readme"
+			}
+		]
+	}
+}
