@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-bouncelens",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node that checks email addresses for bad format, dead domains, typos, throwaway domains and duplicates. Runs inside n8n, no API key.",
 	"license": "MIT",
 	"homepage": "https://bouncelens.com/",
