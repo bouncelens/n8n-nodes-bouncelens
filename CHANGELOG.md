@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- No change to the node. Re-release from a cleaned-up repository history.
+
 ## 0.1.1
 
 - No change to the node. First release published with npm Trusted Publishing (no token).
