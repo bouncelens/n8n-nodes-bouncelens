@@ -16,7 +16,9 @@ An [n8n](https://n8n.io/) community node that checks email addresses before you 
 
 ## Installation
 
-Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation. The package name is `n8n-nodes-bouncelens`.
+**Verified by n8n.** The node passed n8n's review and is available on **n8n Cloud**: open a workflow, search the nodes panel for *BounceLens Email Check* and install it (the instance owner must allow verified community nodes).
+
+**Self-hosted n8n:** follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation. The package name is `n8n-nodes-bouncelens`.
 
 ## Usage
 
